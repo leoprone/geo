@@ -1,0 +1,56 @@
+[
+    {
+        "nombre": "BioTech Argentina",
+        "rama": "farmaceutica",
+        "latitud": -34.603722,
+        "longitud": -58.381592
+    },
+    {
+        "nombre": "AgroBio Innovación",
+        "rama": "agricultura",
+        "latitud": -32.889459,
+        "longitud": -68.845839
+    },
+    {
+        "nombre": "GenTech Labs",
+        "rama": "diagnostico",
+        "latitud": -34.921450,
+        "longitud": -57.954533
+    },
+    {
+        "nombre": "BioIngeniería Patagónica",
+        "rama": "farmaceutica",
+        "latitud": -42.769199,
+        "longitud": -65.038513
+    },
+    {
+        "nombre": "EcoBio Soluciones",
+        "rama": "agricultura",
+        "latitud": -31.416667,
+        "longitud": -64.183334
+    },
+    {
+        "nombre": "SaludGen Buenos Aires",
+        "rama": "diagnostico",
+        "latitud": -34.611778,
+        "longitud": -58.417309
+    },
+    {
+        "nombre": "BioNorte",
+        "rama": "farmaceutica",
+        "latitud": -24.776113,
+        "longitud": -65.423198
+    },
+    {
+        "nombre": "AgroSoluciones",
+        "rama": "agricultura",
+        "latitud": -33.294208,
+        "longitud": -66.335616
+    },
+    {
+        "nombre": "Genética Avanzada",
+        "rama": "diagnostico",
+        "latitud": -34.622821,
+        "longitud": -58.456362
+    }
+]
